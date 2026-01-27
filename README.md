@@ -17,7 +17,7 @@ A) Entrenar un modelo y desplegarlo como API para predicciones.
 | Mantenibilidad / tipado / tooling      | 3    | 3      | 2 | 5    | 4    |
 | Talento disponible                     | 4    | 5      | 3 | 4    | 4    |
 | Coste de operación / infraestructura   | 3    | 4      | 3 | 3    | 4    |
-| **TOTAL ponderado**      
+| **TOTAL ponderado**                    |      |  128   | 93| 112  | 93   |
 
 
 
